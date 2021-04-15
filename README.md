@@ -1,2 +1,2 @@
-# DeepLearning_course_UU
-This is a repository for Deep Learning coure given by Upssala University
+# Deep Learning course
+This is a repository for Deep Learning course given by Upssala University
